@@ -1,0 +1,17 @@
+{
+    "name": "ProjectSeed",
+    "version": "0.0.1",
+    "description": "Project Seed for webapps",
+	"dependencies": {
+		"bootstrap":"*",
+		"bootswatch":"*",
+		"html5-boilerplate":"*",
+		"angular":"*",
+		"angular-scenario":"*",
+		"angular-mocks":"*",
+		"angular-resource":"*",
+		"angular-sanitize":"*",
+		"angular-loader":"*",
+		"angular-cookies": "*"
+		}
+}
